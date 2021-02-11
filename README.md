@@ -3,16 +3,11 @@
 #### Bachelor of Computer Science (2007), currently majoring in Actuarial Science at the Faculty of Economics of the Federal University of Rio Grande do Sul. Interest in areas related to data science, machine learning, artificial neural networks and computational econometrics. I like to write in Python Code. 🐍 💚
 
 <br>
-<Table>
-  <tr>
-    <td>
+
 [![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegomoal)](https://github.com/anuraghazra/github-readme-stats)
-    </td>
-    <td>
+
       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegomoal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-    </td>
-  </tr>
-  </table>
+
 <br>
 
 ### 📫 Get in touch
