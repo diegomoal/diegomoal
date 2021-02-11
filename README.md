@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=your-github-username&color=cddbec)
+
 ![alt text](http://zevla.dev/b2.png)
 
 ### 🙋‍♂️ About me
@@ -7,7 +9,7 @@ Bachelor of Computer Science (2007), currently majoring in Actuarial Science at 
 [![linkedin badge](https://img.shields.io/badge/diegomoal-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/diegomoal)
 [![twitter badge](https://img.shields.io/badge/@diegomoal_-30302f?style=flat&logo=twitter)](https://twitter.com/diegomoal_)
 [![medium badge](https://img.shields.io/badge/diegomoal-30302f?style=flat&logo=medium)](https://medium.com/@diegomoal)
-![Profile views](https://gpvc.arturio.dev/[diegomoal])
+
 
 <br>
 
