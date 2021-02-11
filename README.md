@@ -4,9 +4,11 @@
 
 <br>
 
-[![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegomoal)](https://github.com/anuraghazra/github-readme-stats)
+[![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegomoal)]
 
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegomoal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegomoal)]
 
 <br>
 
