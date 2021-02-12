@@ -2,8 +2,11 @@
 
 ![alt text](http://zevla.dev/b2.png)
 
-##Bachelor of Computer Science (2007), currently majoring in Actuarial Science at the Faculty of Economics of the Federal University of Rio Grande do Sul. Interest in areas related to data science, machine learning, artificial neural networks and computational econometrics. I like to write in Python Code. 🐍 💚
+<br>
 
+#### Bachelor of Computer Science (2007), currently majoring in Actuarial Science at the Faculty of Economics of the Federal University of Rio Grande do Sul. Interest in areas related to data science, machine learning, artificial neural networks and computational econometrics. I like to write in Python Code. 🐍 💚
+
+<br>
 
 <a target="_blank" href="https://linkedin.com/in/diegomoal/">
 <img src="https://img.shields.io/badge/-LinkedIn-b1d7f3?style=for-the-badge&logo=Linkedin&logoColor=#458bb6&link=https://linkedin.com/in/diegomoal/" alt="Linkedin Badge">
