@@ -19,7 +19,7 @@
 <a target="_blank" href="https://diegomoal.medium.com/">
 <img src="https://img.shields.io/badge/-Medium-b1d7f3?style=for-the-badge&logo=Medium&logoColor=5a99bf&link=https://instagram.com/diegomoal_/" alt="Instagram Badge">
 </a>
-
+<br>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <br>
 
