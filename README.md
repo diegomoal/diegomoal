@@ -8,16 +8,16 @@
 <br>
 
 <a target="_blank" href="https://linkedin.com/in/diegomoal/">
-<img src="https://img.shields.io/badge/-LinkedIn-b1d7f3?style=for-the-badge&logo=Linkedin&logoColor=5a99bf&link=https://linkedin.com/in/diegomoal/" alt="Linkedin Badge">
+<img src="https://img.shields.io/badge/-LinkedIn-6c51e6?style=for-the-badge&logo=Linkedin&logoColor=5a99bf&link=https://linkedin.com/in/diegomoal/" alt="Linkedin Badge">
 </a>
 <a target="_blank" href="https://twitter.com/diegomoal_">
-<img src="https://img.shields.io/badge/Twitter-b1d7f3?style=for-the-badge&logo=twitter&logoColor=5a99bf&link=https://twitter.com/diegomoal_" alt="Twitter Badge">
+<img src="https://img.shields.io/badge/Twitter-6c51e6?style=for-the-badge&logo=twitter&logoColor=5a99bf&link=https://twitter.com/diegomoal_" alt="Twitter Badge">
 </a>
 <a target="_blank" href="https://instagram.com/diegomoal_/">
-<img src="https://img.shields.io/badge/-Instagram-b1d7f3?style=for-the-badge&logo=Instagram&logoColor=5a99bf&link=https://instagram.com/diegomoal_/" alt="Instagram Badge">
+<img src="https://img.shields.io/badge/-Instagram-6c51e6?style=for-the-badge&logo=Instagram&logoColor=5a99bf&link=https://instagram.com/diegomoal_/" alt="Instagram Badge">
 </a>
 <a target="_blank" href="https://diegomoal.medium.com/">
-<img src="https://img.shields.io/badge/-Medium-b1d7f3?style=for-the-badge&logo=Medium&logoColor=5a99bf&link=https://instagram.com/diegomoal_/" alt="Instagram Badge">
+<img src="https://img.shields.io/badge/-Medium-6c51e6?style=for-the-badge&logo=Medium&logoColor=5a99bf&link=https://instagram.com/diegomoal_/" alt="Instagram Badge">
 </a>
 <br><br>
 
