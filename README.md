@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=diegomoal&color=cddbec)
+![](https://komarev.com/ghpvc/?username=diegomoal&color=6c51e6)
 
 ![alt text](http://zevla.dev/b2.png)
 
