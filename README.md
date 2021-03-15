@@ -10,7 +10,7 @@
 <br>
 
 <a target="_blank" href="https://diegomoal.medium.com/">
-<img src="https://img.shields.io/badge/-CV-90a7cc?style=for-the-badge&logo=Medium&logoColor=ffffff&link=https://instagram.com/diegomoal_/" alt="Download CV">
+<img src="https://img.shields.io/badge/CV-Download%20CV-90a7cc?style=for-the-badge&logo=Medium&logoColor=ffffff&link=https://instagram.com/diegomoal_/" alt="Download CV">
 
 <br>
 
