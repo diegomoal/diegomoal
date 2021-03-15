@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=diegomoal&color=6c51e6)
+![](https://komarev.com/ghpvc/?username=diegomoal&color=457fa7)
 
 
 
@@ -10,16 +10,16 @@
 <br>
 
 <a target="_blank" href="https://linkedin.com/in/diegomoal/">
-<img src="https://img.shields.io/badge/-LinkedIn-6c51e6?style=for-the-badge&logo=Linkedin&logoColor=ffffff&link=https://linkedin.com/in/diegomoal/" alt="Linkedin Badge">
+<img src="https://img.shields.io/badge/-LinkedIn-457fa7?style=for-the-badge&logo=Linkedin&logoColor=ffffff&link=https://linkedin.com/in/diegomoal/" alt="Linkedin Badge">
 </a>
 <a target="_blank" href="https://twitter.com/diegomoal_">
-<img src="https://img.shields.io/badge/Twitter-6c51e6?style=for-the-badge&logo=twitter&logoColor=ffffff&link=https://twitter.com/diegomoal_" alt="Twitter Badge">
+<img src="https://img.shields.io/badge/Twitter-457fa7?style=for-the-badge&logo=twitter&logoColor=ffffff&link=https://twitter.com/diegomoal_" alt="Twitter Badge">
 </a>
 <a target="_blank" href="https://instagram.com/diegomoal_/">
-<img src="https://img.shields.io/badge/-Instagram-6c51e6?style=for-the-badge&logo=Instagram&logoColor=ffffff&link=https://instagram.com/diegomoal_/" alt="Instagram Badge">
+<img src="https://img.shields.io/badge/-Instagram-457fa7?style=for-the-badge&logo=Instagram&logoColor=ffffff&link=https://instagram.com/diegomoal_/" alt="Instagram Badge">
 </a>
 <a target="_blank" href="https://diegomoal.medium.com/">
-<img src="https://img.shields.io/badge/-Medium-6c51e6?style=for-the-badge&logo=Medium&logoColor=ffffff&link=https://instagram.com/diegomoal_/" alt="Instagram Badge">
+<img src="https://img.shields.io/badge/-Medium-457fa7?style=for-the-badge&logo=Medium&logoColor=ffffff&link=https://instagram.com/diegomoal_/" alt="Instagram Badge">
 </a>
 <br><br>
 
@@ -28,7 +28,7 @@
 
 
 <a href="https://github.com/diegomoal/diegomoal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomoal&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=6c51e6" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomoal&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=457fa7" />
 </a>
 
 
