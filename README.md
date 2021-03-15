@@ -7,10 +7,6 @@
 
 ### I live in Porto Alegre with my wife and daughter, chronic pacman gamer and a lifelong learner. Also i want to make the people who make me laugh laugh. 
 
-<br>
-
-<a target="_blank" href="https://diegomoal.medium.com/">
-<img src="https://img.shields.io/badge/CV-Download%20CV-90a7cc?style=for-the-badge&logo=Medium&logoColor=ffffff&link=https://instagram.com/diegomoal_/" alt="Download CV">
 
 <br>
 
