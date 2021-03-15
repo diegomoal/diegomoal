@@ -9,7 +9,8 @@
 
 <br>
 
-[Link button](http://example.com/){: .btn .btn-blue }
+<a target="_blank" href="https://diegomoal.medium.com/">
+<img src="https://img.shields.io/badge/-CV-90a7cc?style=for-the-badge&logo=Medium&logoColor=ffffff&link=https://instagram.com/diegomoal_/" alt="Download CV">
 
 <br>
 
